@@ -1,3 +1,7 @@
 Main text file for demo document.
+
 text adding some new branch1.
-ending of branch1.
+ending of branch.
+starting of branch2.
+adding some new texts.
+
